@@ -1,0 +1,9 @@
+DEPENDENCIES
+  conditions
+    path: .
+    metadata: true
+
+GRAPH
+  apt (6.1.4)
+  conditions (0.1.0)
+    apt (~> 6.1.4)
